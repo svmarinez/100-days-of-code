@@ -1,17 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 1: September 16, 2018
+### Day 1: July 17, 2021
 
-**Today's Progress**: Finished some unfinished Katas
+**Today's Progress**: Started a vanilla JAMStack project. 
 
-**Thoughts:** It was nice to get one right on the first go. That had never happened before, so it's a start.
+**Thoughts:** It was nice to get started on something and not have it suck. I might actually know more than I think.
 
-**Link to work:** (Not gonna look it up right now)
+**Link to work:** https://github.com/svmarinez/verbstheword
 
-### Day 2: September 17, 2018
+### Day 2: July 18
 
-**Today's Progress**: Learned about recursion.
+**Today's Progress**: Finished the landing page for the game, learned some Bootstrap classes I didn't know before and it made everything super easy to deal with
 
-**Thoughts:** "I'm Pickle Rick!!!!" - Literally me after my job interview
+**Thoughts:** WHAT A G!
 
-**Link to work:** https://repl.it/@svmarinez/RecursiveFactorial
+**Link to work:** https://github.com/svmarinez/verbstheword
